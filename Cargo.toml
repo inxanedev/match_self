@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = 'Rust macro for the common "x = match x {" pattern'
+documentation = "https://docs.rs/match_self"
 
 [lib]
 doctest = false
